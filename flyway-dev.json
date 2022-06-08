@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "name": "CaseInsensitive",
+  "id": "90c67426-e6e1-46e3-b233-f97daa666cd2",
+  "databaseType": "PostgreSql",
+  "schemas": [
+    "public"
+  ],
+  "development": {
+    "scriptsFolder": "./schema-model"
+  },
+  "deployment": {
+    "flywayConfFiles": [
+      "./flyway.conf"
+    ]
+  }
+}
