@@ -1,0 +1,15 @@
+{
+  "objects": [
+    {
+      "objectType": "table",
+      "fullName": "\"public\".\"FoO\"",
+      "columns": [
+        {
+          "objectType": "column",
+          "fullName": "\"id\"",
+          "type": "int4"
+        }
+      ]
+    }
+  ]
+}
